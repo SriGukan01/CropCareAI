@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment Variables
+.env
+client/.env
+server/.env
+.env.local
+.env.*.local
+
+# Build Outputs
+dist/
+client/dist/
+
+# Uploads & Temp
+server/uploads/*
+!server/uploads/original/
+!server/uploads/heatmaps/
+!server/uploads/tmp/
+server/uploads/original/*
+server/uploads/heatmaps/*
+server/uploads/tmp/*
+*.log
+
+# System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

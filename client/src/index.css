@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased selection:bg-agri-500 selection:text-white;
+  }
+
+  h1, h2, h3, h4, .serif-heading {
+    font-family: 'Merriweather', Georgia, serif;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-white/80 dark:bg-parchment-800/80 backdrop-blur-md border border-slate-200/60 dark:border-slate-700/60 shadow-soft;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl font-medium text-white bg-agri-800 hover:bg-agri-700 active:scale-[0.98] transition-all duration-150 shadow-sm hover:shadow-soft;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl font-medium text-agri-800 dark:text-agri-200 bg-agri-100 dark:bg-agri-900/60 hover:bg-agri-200 dark:hover:bg-agri-800 active:scale-[0.98] transition-all duration-150;
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-2 px-4 py-2 rounded-xl font-medium border border-slate-300 dark:border-slate-600 text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 active:scale-[0.98] transition-all duration-150;
+  }
+}
+
+/* Leaf scanning beam animation */
+@keyframes scanBeam {
+  0% {
+    top: 0%;
+    opacity: 0.8;
+  }
+  50% {
+    top: 96%;
+    opacity: 1;
+  }
+  100% {
+    top: 0%;
+    opacity: 0.8;
+  }
+}
+
+.scanner-line {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, transparent, #52B788, #74C69D, transparent);
+  box-shadow: 0 0 15px #52B788;
+  animation: scanBeam 2.5s ease-in-out infinite;
+}
+
+/* Custom modern scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 9999px;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #334155;
+}

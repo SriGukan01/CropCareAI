@@ -1,0 +1,1709 @@
+[
+  {
+    "_id": "6ad16682730f7ac11df2083b",
+    "user": null,
+    "batchId": null,
+    "imagePath": "/uploads/original/1792108162158_c74568661dda31c3.jpg",
+    "heatmapPath": "/uploads/heatmaps/heatmap_1792108162596_716069d3e8fa246f.jpg",
+    "topPredictions": [
+      {
+        "label": "Corn_(maize)___Common_rust_",
+        "confidence": 0.3212,
+        "_id": "6ad16682730f7ac11df2083c"
+      },
+      {
+        "label": "Potato___Early_blight",
+        "confidence": 0.2235,
+        "_id": "6ad16682730f7ac11df2083d"
+      },
+      {
+        "label": "Pepper,_bell___Bacterial_spot",
+        "confidence": 0.1249,
+        "_id": "6ad16682730f7ac11df2083e"
+      }
+    ],
+    "finalLabel": "Corn_(maize)___Common_rust_",
+    "disease": {
+      "translations": {
+        "en": {
+          "name": "Common Rust",
+          "description": "Puccinia fungal pathogen causing powdery cinnamon-brown pustules on both leaf sides.",
+          "symptoms": [
+            "Cinnamon-brown powdery pustules",
+            "Ruptured epidermis",
+            "Leaf chlorosis"
+          ],
+          "causes": [
+            "Puccinia sorghi fungus",
+            "Cool moist weather and airborne spore fronts"
+          ],
+          "prevention": [
+            "Rust-resistant hybrid seeds",
+            "Early planting dates"
+          ],
+          "organicTreatment": [
+            "Wettable sulfur",
+            "Copper oxychloride"
+          ],
+          "chemicalTreatment": [
+            "Tebuconazole",
+            "Pyraclostrobin",
+            "Mancozeb"
+          ],
+          "bestPractices": [
+            "Check regional rust alerts",
+            "Apply fungicide at early emergence"
+          ],
+          "severityNote": "Moderate. Cool damp seasons exacerbate spore spread."
+        },
+        "ta": {
+          "name": "மக்காச்சோள துரு நோய் (Common Rust)",
+          "description": "பக்சீனியா பூஞ்சையால் ஏற்படும் இந்த நோய் இலைகளில் பழுப்பு நிற துரு போன்ற கொப்புளங்களை உண்டாக்குகிறது.",
+          "symptoms": [
+            "இலையின் இருபுறமும் துரு போன்ற கொப்புளங்கள்",
+            "தூள் போன்ற வித்துக்கள்",
+            "இலைகள் மஞ்சள் நிறமாதல்"
+          ],
+          "causes": [
+            "பக்சீனியா பூஞ்சை",
+            "குளிர்ந்த ஈரப்பதமான காற்று"
+          ],
+          "prevention": [
+            "துரு எதிர்ப்பு கலப்பின விதைகள்",
+            "பருவத்தின் தொடக்கத்திலேயே விதைக்கவும்"
+          ],
+          "organicTreatment": [
+            "கந்தகத் தூள்",
+            "காப்பர் ஆக்சிகுளோரைடு"
+          ],
+          "chemicalTreatment": [
+            "டெபுகோனசோல்",
+            "மேன்கோசெப்"
+          ],
+          "bestPractices": [
+            "கொப்புளங்கள் தோன்றியவுடன் தெளிக்கவும்"
+          ],
+          "severityNote": "மிதமான தீவிரம்."
+        },
+        "hi": {
+          "name": "मक्का का सामान्य रतुआ/जंग (Common Rust)",
+          "description": "पुक्सीनिया कवक के कारण पत्तियों के दोनों तरफ भूरे-लाल रंग के फफोले (पुस्ट्यूल) बन जाते हैं।",
+          "symptoms": [
+            "दालचीनी जैसे भूरे फफोले",
+            "धूल जैसा पाउडर",
+            "पत्तियों का पीला पड़ना"
+          ],
+          "causes": [
+            "पुक्सीनिया फंगस",
+            "ठंडा और नम मौसम"
+          ],
+          "prevention": [
+            "रोगरोधी बीज चुनें",
+            "समय पर बुवाई करें"
+          ],
+          "organicTreatment": [
+            "घुलनशील गंधक (सल्फर)",
+            "कॉपर ऑक्सीक्लोराइड"
+          ],
+          "chemicalTreatment": [
+            "टेबुकोनाजोल",
+            "मैनकोजेब"
+          ],
+          "bestPractices": [
+            "शुरुआती लक्षण दिखते ही कवकनाशी डालें"
+          ],
+          "severityNote": "मध्यम नुकसान।"
+        }
+      },
+      "_id": "6acc78d35f12b4c9e61a2824",
+      "classLabel": "Corn_(maize)___Common_rust_",
+      "__v": 0,
+      "bestPractices": [
+        "Monitor weather patterns and regional rust movement alerts",
+        "Treat sweet corn early as market ear appearance is critical"
+      ],
+      "causes": [
+        "Puccinia sorghi fungus whose spores blow in on storm fronts",
+        "Cool temperatures (16°C - 23°C) and high relative humidity (>95%)"
+      ],
+      "chemicalTreatment": [
+        "Foliar triazole or strobilurin fungicides (e.g., Pyraclostrobin, Tebuconazole)",
+        "Mancozeb application at first sign of pustules on upper leaves"
+      ],
+      "createdAt": "2026-10-12T06:06:12.904Z",
+      "crop": {
+        "translations": {
+          "en": {
+            "name": "Corn (Maize)"
+          },
+          "ta": {
+            "name": "மக்காச்சோளம்"
+          },
+          "hi": {
+            "name": "मक्का"
+          }
+        },
+        "_id": "6acc78cf484a1b926b0cc3db",
+        "name": "Corn",
+        "imageUrl": "/images/crops/corn.jpg",
+        "createdAt": "2026-10-12T06:06:07.635Z",
+        "__v": 0
+      },
+      "description": "Caused by Puccinia sorghi. Characterized by golden-brown to cinnamon-brown pustules scattered across both upper and lower leaf surfaces.",
+      "isHealthy": false,
+      "name": "Common Rust",
+      "organicTreatment": [
+        "Sulfur dusting or wettable sulfur suspensions",
+        "Copper oxychloride foliar sprays"
+      ],
+      "prevention": [
+        "Plant corn hybrids with Rp gene-specific or general rust resistance",
+        "Plant early in the season to avoid late-season airborne spore showers"
+      ],
+      "severityNote": "Moderate severity. Favors cool, moist conditions.",
+      "symptoms": [
+        "Circular to elongate cinnamon-brown powdery pustules (uredinia) on leaves",
+        "Pustules rupture epidermal surface releasing rusty powdery spores",
+        "Yellowing and chlorosis surrounding clustered pustules"
+      ]
+    },
+    "confidence": 0.3212,
+    "status": "uncertain",
+    "shareToken": "63ff78d9cb3a8acf964adb742d5011c4",
+    "createdAt": "2026-10-15T23:49:22.931Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad165ad32e516bccdc97c31",
+    "user": "6ad165ac32e516bccdc97c26",
+    "batchId": null,
+    "imagePath": "/uploads/original/1792107949106_8def8ad5345710a5.jpg",
+    "heatmapPath": "/uploads/heatmaps/heatmap_1792107949455_5548b8a1c6484183.jpg",
+    "topPredictions": [
+      {
+        "label": "Apple___healthy",
+        "confidence": 0.8025,
+        "_id": "6ad165ad32e516bccdc97c32"
+      },
+      {
+        "label": "Peach___healthy",
+        "confidence": 0.067,
+        "_id": "6ad165ad32e516bccdc97c33"
+      },
+      {
+        "label": "Orange___Haunglongbing_(Citrus_greening)",
+        "confidence": 0.0241,
+        "_id": "6ad165ad32e516bccdc97c34"
+      }
+    ],
+    "finalLabel": "Apple___healthy",
+    "disease": {
+      "translations": {
+        "en": {
+          "name": "Apple (Healthy)",
+          "description": "Foliage exhibits vigorous health with no detected biotic pathology.",
+          "symptoms": [
+            "Deep green foliage",
+            "Intact leaf margins",
+            "Strong vegetative growth"
+          ],
+          "causes": [
+            "Optimal agricultural conditions and sound agronomy"
+          ],
+          "prevention": [
+            "Continue standard fertilization and pruning protocols"
+          ],
+          "organicTreatment": [
+            "Seaweed extract or compost tea foliar tonic"
+          ],
+          "chemicalTreatment": [
+            "None required"
+          ],
+          "bestPractices": [
+            "Routine scouting and drip irrigation balance"
+          ],
+          "severityNote": "Healthy condition."
+        },
+        "ta": {
+          "name": "ஆப்பிள் (ஆரோக்கியமானது)",
+          "description": "இலைகள் எவ்வித பூஞ்சை அல்லது பாக்டீரியா தொற்றுமின்றி செழுமையாக உள்ளன.",
+          "symptoms": [
+            "அடர் பச்சை இலைகள்",
+            "நோய்த்தொற்று இல்லை",
+            "நல்ல வளர்ச்சி"
+          ],
+          "causes": [
+            "சரியான பராமரிப்பு மற்றும் ஊட்டச்சத்து மேலாண்மை"
+          ],
+          "prevention": [
+            "வழக்கமான உரம் மற்றும் நீர் பாசனத்தை தொடரவும்"
+          ],
+          "organicTreatment": [
+            "கடற்பாசி உரம் தெளிக்கவும்"
+          ],
+          "chemicalTreatment": [
+            "தேவை இல்லை"
+          ],
+          "bestPractices": [
+            "தொடர்ந்து கண்காணிக்கவும்"
+          ],
+          "severityNote": "ஆரோக்கியமான நிலை."
+        },
+        "hi": {
+          "name": "सेब (स्वस्थ पत्ता)",
+          "description": "पत्तियां पूरी तरह से स्वस्थ हैं, कोई रोग या संक्रमण नहीं है।",
+          "symptoms": [
+            "गहरा हरा रंग",
+            "कोई धब्बे या सड़न नहीं",
+            "मजबूत शाखाएं"
+          ],
+          "causes": [
+            "उत्कृष्ट पोषण और समय पर पानी"
+          ],
+          "prevention": [
+            "नियमित खाद और छंटाई जारी रखें"
+          ],
+          "organicTreatment": [
+            "जैविक टॉनिक या समुद्री शैवाल अर्क"
+          ],
+          "chemicalTreatment": [
+            "कोई आवश्यकता नहीं"
+          ],
+          "bestPractices": [
+            "समय-समय पर निरीक्षण करते रहें"
+          ],
+          "severityNote": "स्वस्थ फसल।"
+        }
+      },
+      "_id": "6acc78d25f12b4c9e61a281f",
+      "classLabel": "Apple___healthy",
+      "__v": 0,
+      "bestPractices": [
+        "Maintain clean orchard floor weed-free strip",
+        "Monitor soil moisture with tensiometers"
+      ],
+      "causes": [
+        "Balanced soil nutrients and moisture",
+        "Proper orchard sanitation and pest management"
+      ],
+      "chemicalTreatment": [
+        "No chemical fungicides or bactericides required"
+      ],
+      "createdAt": "2026-10-12T06:06:12.067Z",
+      "crop": {
+        "translations": {
+          "en": {
+            "name": "Apple"
+          },
+          "ta": {
+            "name": "ஆப்பிள்"
+          },
+          "hi": {
+            "name": "सेब"
+          }
+        },
+        "_id": "6acc78c8484a1b926b0cc3cf",
+        "name": "Apple",
+        "imageUrl": "/images/crops/apple.jpg",
+        "createdAt": "2026-10-12T06:06:00.379Z",
+        "__v": 0
+      },
+      "description": "The apple foliage is vibrant green, free of foliar pathogens, showing robust vegetative vigor and photosynthetic efficiency.",
+      "isHealthy": true,
+      "name": "Apple Healthy",
+      "organicTreatment": [
+        "Prophylactic compost tea and seaweed foliar sprays for enhanced immunity"
+      ],
+      "prevention": [
+        "Maintain annual pruning to preserve sunlight and ventilation",
+        "Ensure balanced N-P-K fertilization and calcium foliar feeds",
+        "Continue periodic scouting for early pest or fungal signs"
+      ],
+      "severityNote": "Optimal plant health. Continue routine cultural management.",
+      "symptoms": [
+        "Uniform, deep green foliage without lesions, necrotic spots, or curling",
+        "Clean leaf margins and healthy terminal shoots",
+        "Normal fruit development without scab or rot"
+      ]
+    },
+    "confidence": 0.8025,
+    "status": "confident",
+    "shareToken": "c9ee3d89bdbd1e37e81e4552b5d1317e",
+    "createdAt": "2026-10-15T23:45:49.722Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad16101ba0ce5b1a502296e",
+    "user": "6ad16100ba0ce5b1a5022963",
+    "batchId": null,
+    "imagePath": "/uploads/original/1792106753008_691e2cb581f58402.jpg",
+    "heatmapPath": "/uploads/heatmaps/heatmap_1792106753318_171f4fb95e585c54.jpg",
+    "topPredictions": [
+      {
+        "label": "Apple___healthy",
+        "confidence": 0.8025,
+        "_id": "6ad16101ba0ce5b1a502296f"
+      },
+      {
+        "label": "Peach___healthy",
+        "confidence": 0.067,
+        "_id": "6ad16101ba0ce5b1a5022970"
+      },
+      {
+        "label": "Orange___Haunglongbing_(Citrus_greening)",
+        "confidence": 0.0241,
+        "_id": "6ad16101ba0ce5b1a5022971"
+      }
+    ],
+    "finalLabel": "Apple___healthy",
+    "disease": {
+      "translations": {
+        "en": {
+          "name": "Apple (Healthy)",
+          "description": "Foliage exhibits vigorous health with no detected biotic pathology.",
+          "symptoms": [
+            "Deep green foliage",
+            "Intact leaf margins",
+            "Strong vegetative growth"
+          ],
+          "causes": [
+            "Optimal agricultural conditions and sound agronomy"
+          ],
+          "prevention": [
+            "Continue standard fertilization and pruning protocols"
+          ],
+          "organicTreatment": [
+            "Seaweed extract or compost tea foliar tonic"
+          ],
+          "chemicalTreatment": [
+            "None required"
+          ],
+          "bestPractices": [
+            "Routine scouting and drip irrigation balance"
+          ],
+          "severityNote": "Healthy condition."
+        },
+        "ta": {
+          "name": "ஆப்பிள் (ஆரோக்கியமானது)",
+          "description": "இலைகள் எவ்வித பூஞ்சை அல்லது பாக்டீரியா தொற்றுமின்றி செழுமையாக உள்ளன.",
+          "symptoms": [
+            "அடர் பச்சை இலைகள்",
+            "நோய்த்தொற்று இல்லை",
+            "நல்ல வளர்ச்சி"
+          ],
+          "causes": [
+            "சரியான பராமரிப்பு மற்றும் ஊட்டச்சத்து மேலாண்மை"
+          ],
+          "prevention": [
+            "வழக்கமான உரம் மற்றும் நீர் பாசனத்தை தொடரவும்"
+          ],
+          "organicTreatment": [
+            "கடற்பாசி உரம் தெளிக்கவும்"
+          ],
+          "chemicalTreatment": [
+            "தேவை இல்லை"
+          ],
+          "bestPractices": [
+            "தொடர்ந்து கண்காணிக்கவும்"
+          ],
+          "severityNote": "ஆரோக்கியமான நிலை."
+        },
+        "hi": {
+          "name": "सेब (स्वस्थ पत्ता)",
+          "description": "पत्तियां पूरी तरह से स्वस्थ हैं, कोई रोग या संक्रमण नहीं है।",
+          "symptoms": [
+            "गहरा हरा रंग",
+            "कोई धब्बे या सड़न नहीं",
+            "मजबूत शाखाएं"
+          ],
+          "causes": [
+            "उत्कृष्ट पोषण और समय पर पानी"
+          ],
+          "prevention": [
+            "नियमित खाद और छंटाई जारी रखें"
+          ],
+          "organicTreatment": [
+            "जैविक टॉनिक या समुद्री शैवाल अर्क"
+          ],
+          "chemicalTreatment": [
+            "कोई आवश्यकता नहीं"
+          ],
+          "bestPractices": [
+            "समय-समय पर निरीक्षण करते रहें"
+          ],
+          "severityNote": "स्वस्थ फसल।"
+        }
+      },
+      "_id": "6acc78d25f12b4c9e61a281f",
+      "classLabel": "Apple___healthy",
+      "__v": 0,
+      "bestPractices": [
+        "Maintain clean orchard floor weed-free strip",
+        "Monitor soil moisture with tensiometers"
+      ],
+      "causes": [
+        "Balanced soil nutrients and moisture",
+        "Proper orchard sanitation and pest management"
+      ],
+      "chemicalTreatment": [
+        "No chemical fungicides or bactericides required"
+      ],
+      "createdAt": "2026-10-12T06:06:12.067Z",
+      "crop": {
+        "translations": {
+          "en": {
+            "name": "Apple"
+          },
+          "ta": {
+            "name": "ஆப்பிள்"
+          },
+          "hi": {
+            "name": "सेब"
+          }
+        },
+        "_id": "6acc78c8484a1b926b0cc3cf",
+        "name": "Apple",
+        "imageUrl": "/images/crops/apple.jpg",
+        "createdAt": "2026-10-12T06:06:00.379Z",
+        "__v": 0
+      },
+      "description": "The apple foliage is vibrant green, free of foliar pathogens, showing robust vegetative vigor and photosynthetic efficiency.",
+      "isHealthy": true,
+      "name": "Apple Healthy",
+      "organicTreatment": [
+        "Prophylactic compost tea and seaweed foliar sprays for enhanced immunity"
+      ],
+      "prevention": [
+        "Maintain annual pruning to preserve sunlight and ventilation",
+        "Ensure balanced N-P-K fertilization and calcium foliar feeds",
+        "Continue periodic scouting for early pest or fungal signs"
+      ],
+      "severityNote": "Optimal plant health. Continue routine cultural management.",
+      "symptoms": [
+        "Uniform, deep green foliage without lesions, necrotic spots, or curling",
+        "Clean leaf margins and healthy terminal shoots",
+        "Normal fruit development without scab or rot"
+      ]
+    },
+    "confidence": 0.8025,
+    "status": "confident",
+    "shareToken": "1b4b976a7b6eed5122623d03c0494366",
+    "createdAt": "2026-10-15T23:25:53.437Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad160f416a1e8631f90baf3",
+    "user": null,
+    "batchId": null,
+    "imagePath": "/uploads/original/1792106740336_a497fb53eecd7646.jpg",
+    "heatmapPath": "/uploads/heatmaps/heatmap_1792106740528_dea28c03b4e11766.jpg",
+    "topPredictions": [
+      {
+        "label": "Tomato___Early_blight",
+        "confidence": 0.4351,
+        "_id": "6ad160f416a1e8631f90baf4"
+      },
+      {
+        "label": "Potato___Early_blight",
+        "confidence": 0.1638,
+        "_id": "6ad160f416a1e8631f90baf5"
+      },
+      {
+        "label": "Tomato___Septoria_leaf_spot",
+        "confidence": 0.1372,
+        "_id": "6ad160f416a1e8631f90baf6"
+      }
+    ],
+    "finalLabel": "Tomato___Early_blight",
+    "disease": {
+      "translations": {
+        "en": {
+          "name": "Tomato Early Blight",
+          "description": "Alternaria fungus causing concentric bullseye rings on lower tomato foliage.",
+          "symptoms": [
+            "Bullseye concentric rings",
+            "Lower foliage yellowing",
+            "Stem collar rot",
+            "Fruit rot"
+          ],
+          "causes": [
+            "Alternaria solani",
+            "Warm humid weather and soil splashing"
+          ],
+          "prevention": [
+            "Mulch under plants",
+            "Prune lower bottom leaves",
+            "Crop rotation"
+          ],
+          "organicTreatment": [
+            "Copper fungicide",
+            "Bacillus subtilis bio-spray"
+          ],
+          "chemicalTreatment": [
+            "Chlorothalonil",
+            "Azoxystrobin",
+            "Mancozeb"
+          ],
+          "bestPractices": [
+            "Stake and prune for aeration",
+            "Water at root level only"
+          ],
+          "severityNote": "High. Progressive defoliation from bottom up."
+        },
+        "ta": {
+          "name": "தக்காளி முன் பருவ கருகல் (Early Blight)",
+          "description": "ஆல்டர்னேரியா பூஞ்சையால் ஏற்படும் இந்த நோய் இலைகளில் வளைய வளையமாக கரும்பழுப்பு புள்ளிகளை உருவாக்குகிறது.",
+          "symptoms": [
+            "இலைகளில் வளைய வடிவ கருகல் புள்ளிகள்",
+            "அடி இலைகள் மஞ்சள் நிறமாகி உதிர்தல்",
+            "தண்டு அழுகல்"
+          ],
+          "causes": [
+            "பூஞ்சை தொற்று",
+            "மண் தெறித்தல் மற்றும் காற்றில் ஈரப்பதம்"
+          ],
+          "prevention": [
+            "தழைக்கூளம் அமைத்தல்",
+            "கீழ் இலைகளை கவாத்து செய்தல்",
+            "பயிர் சுழற்சி"
+          ],
+          "organicTreatment": [
+            "காப்பர் பூஞ்சைக் கொல்லி",
+            "ட்ரைக்கோடெர்மா விரிடி"
+          ],
+          "chemicalTreatment": [
+            "குளோரோதலோனில்",
+            "மேன்கோசெப்"
+          ],
+          "bestPractices": [
+            "செடிகளுக்கு முட்டுக்கொடுத்து காற்றோட்டமாக வளர்க்கவும்"
+          ],
+          "severityNote": "அதிக தீவிரம்."
+        },
+        "hi": {
+          "name": "टमाटर का अगेती झुलसा (Early Blight)",
+          "description": "अल्टरनेरिया कवक के कारण निचली पत्तियों पर गोल छल्लेदार (बैल की आंख जैसे) धब्बे पड़ते हैं।",
+          "symptoms": [
+            "छल्लेदार भूरे धब्बे",
+            "निचले पत्तों का सूखना",
+            "तने पर घाव",
+            "फलों पर काले धब्बे"
+          ],
+          "causes": [
+            "अल्टरनेरिया फंगस",
+            "गर्म और नम मौसम, मिट्टी का छिटकना"
+          ],
+          "prevention": [
+            "जमीन पर मल्चिंग करें",
+            "निचली पत्तियों की छंटाई करें",
+            "फसल चक्र"
+          ],
+          "organicTreatment": [
+            "कॉपर कवकनाशी",
+            "बैसिलस सबटिलिस"
+          ],
+          "chemicalTreatment": [
+            "क्लोरोथैलोनिल",
+            "मैनकोजेब"
+          ],
+          "bestPractices": [
+            "पौधों को सहारा दें और जड़ों में पानी दें"
+          ],
+          "severityNote": "गंभीर। नीचे से ऊपर की ओर पत्ते नष्ट होते हैं।"
+        }
+      },
+      "_id": "6acc78e55f12b4c9e61a2839",
+      "classLabel": "Tomato___Early_blight",
+      "__v": 0,
+      "bestPractices": [
+        "Stake and prune plants to improve aeration",
+        "Always water at the base of the plant using drip tape"
+      ],
+      "causes": [
+        "Alternaria solani fungus surviving in infected plant debris and soil",
+        "Warm temperatures (24°C - 30°C) with alternating wet periods and heavy dew"
+      ],
+      "chemicalTreatment": [
+        "Chlorothalonil, Azoxystrobin, or Difenoconazole",
+        "Mancozeb applied at 7-10 day intervals starting at early bloom"
+      ],
+      "createdAt": "2026-10-12T06:06:30.795Z",
+      "crop": {
+        "translations": {
+          "en": {
+            "name": "Tomato"
+          },
+          "ta": {
+            "name": "தக்காளி"
+          },
+          "hi": {
+            "name": "टमाटर"
+          }
+        },
+        "_id": "6acc78d3484a1b926b0cc3f9",
+        "name": "Tomato",
+        "imageUrl": "/images/crops/tomato.jpg",
+        "createdAt": "2026-10-12T06:06:11.305Z",
+        "__v": 0
+      },
+      "description": "Caused by Alternaria solani. Produces dark brown circular spots with characteristic concentric rings ('bullseye' or target-like pattern) surrounded by chlorotic yellow halos, starting on the oldest lower leaves.",
+      "isHealthy": false,
+      "name": "Tomato Early Blight",
+      "organicTreatment": [
+        "Copper hydroxide or liquid copper octanoate foliar spray",
+        "Bio-fungicides containing Bacillus subtilis or Trichoderma"
+      ],
+      "prevention": [
+        "Mulch soil around plants to prevent soil splashing onto bottom leaves",
+        "Prune off the lowest 12-18 inches of leaves once plants are established",
+        "Rotate with non-solanaceous crops for at least 3 years"
+      ],
+      "severityNote": "High severity. Common foliar disease that severely limits production.",
+      "symptoms": [
+        "Concentric circular bullseye ring spots on lower leaves",
+        "Yellowing (chlorosis) surrounding lesions leading to leaf withering and drop",
+        "Dark, sunken, leathery cankers on stems at soil line (collar rot)",
+        "Dark leathery concentric spots at the fruit stem end"
+      ]
+    },
+    "confidence": 0.4351,
+    "status": "uncertain",
+    "shareToken": "5eab4fe859dd4053caf69182057592d4",
+    "createdAt": "2026-10-15T23:25:40.740Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad1606716a1e8631f90bae0",
+    "user": null,
+    "batchId": null,
+    "imagePath": "/uploads/original/1792106598303_62bb103d0122443b.jpg",
+    "heatmapPath": "/uploads/heatmaps/heatmap_1792106598989_0941eeaae7c0829d.jpg",
+    "topPredictions": [
+      {
+        "label": "Tomato___Early_blight",
+        "confidence": 0.4351,
+        "_id": "6ad1606716a1e8631f90bae1"
+      },
+      {
+        "label": "Potato___Early_blight",
+        "confidence": 0.1638,
+        "_id": "6ad1606716a1e8631f90bae2"
+      },
+      {
+        "label": "Tomato___Septoria_leaf_spot",
+        "confidence": 0.1372,
+        "_id": "6ad1606716a1e8631f90bae3"
+      }
+    ],
+    "finalLabel": "Tomato___Early_blight",
+    "disease": {
+      "translations": {
+        "en": {
+          "name": "Tomato Early Blight",
+          "description": "Alternaria fungus causing concentric bullseye rings on lower tomato foliage.",
+          "symptoms": [
+            "Bullseye concentric rings",
+            "Lower foliage yellowing",
+            "Stem collar rot",
+            "Fruit rot"
+          ],
+          "causes": [
+            "Alternaria solani",
+            "Warm humid weather and soil splashing"
+          ],
+          "prevention": [
+            "Mulch under plants",
+            "Prune lower bottom leaves",
+            "Crop rotation"
+          ],
+          "organicTreatment": [
+            "Copper fungicide",
+            "Bacillus subtilis bio-spray"
+          ],
+          "chemicalTreatment": [
+            "Chlorothalonil",
+            "Azoxystrobin",
+            "Mancozeb"
+          ],
+          "bestPractices": [
+            "Stake and prune for aeration",
+            "Water at root level only"
+          ],
+          "severityNote": "High. Progressive defoliation from bottom up."
+        },
+        "ta": {
+          "name": "தக்காளி முன் பருவ கருகல் (Early Blight)",
+          "description": "ஆல்டர்னேரியா பூஞ்சையால் ஏற்படும் இந்த நோய் இலைகளில் வளைய வளையமாக கரும்பழுப்பு புள்ளிகளை உருவாக்குகிறது.",
+          "symptoms": [
+            "இலைகளில் வளைய வடிவ கருகல் புள்ளிகள்",
+            "அடி இலைகள் மஞ்சள் நிறமாகி உதிர்தல்",
+            "தண்டு அழுகல்"
+          ],
+          "causes": [
+            "பூஞ்சை தொற்று",
+            "மண் தெறித்தல் மற்றும் காற்றில் ஈரப்பதம்"
+          ],
+          "prevention": [
+            "தழைக்கூளம் அமைத்தல்",
+            "கீழ் இலைகளை கவாத்து செய்தல்",
+            "பயிர் சுழற்சி"
+          ],
+          "organicTreatment": [
+            "காப்பர் பூஞ்சைக் கொல்லி",
+            "ட்ரைக்கோடெர்மா விரிடி"
+          ],
+          "chemicalTreatment": [
+            "குளோரோதலோனில்",
+            "மேன்கோசெப்"
+          ],
+          "bestPractices": [
+            "செடிகளுக்கு முட்டுக்கொடுத்து காற்றோட்டமாக வளர்க்கவும்"
+          ],
+          "severityNote": "அதிக தீவிரம்."
+        },
+        "hi": {
+          "name": "टमाटर का अगेती झुलसा (Early Blight)",
+          "description": "अल्टरनेरिया कवक के कारण निचली पत्तियों पर गोल छल्लेदार (बैल की आंख जैसे) धब्बे पड़ते हैं।",
+          "symptoms": [
+            "छल्लेदार भूरे धब्बे",
+            "निचले पत्तों का सूखना",
+            "तने पर घाव",
+            "फलों पर काले धब्बे"
+          ],
+          "causes": [
+            "अल्टरनेरिया फंगस",
+            "गर्म और नम मौसम, मिट्टी का छिटकना"
+          ],
+          "prevention": [
+            "जमीन पर मल्चिंग करें",
+            "निचली पत्तियों की छंटाई करें",
+            "फसल चक्र"
+          ],
+          "organicTreatment": [
+            "कॉपर कवकनाशी",
+            "बैसिलस सबटिलिस"
+          ],
+          "chemicalTreatment": [
+            "क्लोरोथैलोनिल",
+            "मैनकोजेब"
+          ],
+          "bestPractices": [
+            "पौधों को सहारा दें और जड़ों में पानी दें"
+          ],
+          "severityNote": "गंभीर। नीचे से ऊपर की ओर पत्ते नष्ट होते हैं।"
+        }
+      },
+      "_id": "6acc78e55f12b4c9e61a2839",
+      "classLabel": "Tomato___Early_blight",
+      "__v": 0,
+      "bestPractices": [
+        "Stake and prune plants to improve aeration",
+        "Always water at the base of the plant using drip tape"
+      ],
+      "causes": [
+        "Alternaria solani fungus surviving in infected plant debris and soil",
+        "Warm temperatures (24°C - 30°C) with alternating wet periods and heavy dew"
+      ],
+      "chemicalTreatment": [
+        "Chlorothalonil, Azoxystrobin, or Difenoconazole",
+        "Mancozeb applied at 7-10 day intervals starting at early bloom"
+      ],
+      "createdAt": "2026-10-12T06:06:30.795Z",
+      "crop": {
+        "translations": {
+          "en": {
+            "name": "Tomato"
+          },
+          "ta": {
+            "name": "தக்காளி"
+          },
+          "hi": {
+            "name": "टमाटर"
+          }
+        },
+        "_id": "6acc78d3484a1b926b0cc3f9",
+        "name": "Tomato",
+        "imageUrl": "/images/crops/tomato.jpg",
+        "createdAt": "2026-10-12T06:06:11.305Z",
+        "__v": 0
+      },
+      "description": "Caused by Alternaria solani. Produces dark brown circular spots with characteristic concentric rings ('bullseye' or target-like pattern) surrounded by chlorotic yellow halos, starting on the oldest lower leaves.",
+      "isHealthy": false,
+      "name": "Tomato Early Blight",
+      "organicTreatment": [
+        "Copper hydroxide or liquid copper octanoate foliar spray",
+        "Bio-fungicides containing Bacillus subtilis or Trichoderma"
+      ],
+      "prevention": [
+        "Mulch soil around plants to prevent soil splashing onto bottom leaves",
+        "Prune off the lowest 12-18 inches of leaves once plants are established",
+        "Rotate with non-solanaceous crops for at least 3 years"
+      ],
+      "severityNote": "High severity. Common foliar disease that severely limits production.",
+      "symptoms": [
+        "Concentric circular bullseye ring spots on lower leaves",
+        "Yellowing (chlorosis) surrounding lesions leading to leaf withering and drop",
+        "Dark, sunken, leathery cankers on stems at soil line (collar rot)",
+        "Dark leathery concentric spots at the fruit stem end"
+      ]
+    },
+    "confidence": 0.4351,
+    "status": "uncertain",
+    "shareToken": "7e5549dac14b9fde4bdd3645d0bb226c",
+    "createdAt": "2026-10-15T23:23:19.329Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad15fc01e8e5ffe19fde8ca",
+    "user": null,
+    "batchId": null,
+    "imagePath": "/uploads/original/1792106431995_582e3d4249ad4a32.jpg",
+    "heatmapPath": "/uploads/heatmaps/heatmap_1792106432339_4e815e66e0511397.jpg",
+    "topPredictions": [
+      {
+        "label": "Corn_(maize)___Common_rust_",
+        "confidence": 0.7763,
+        "_id": "6ad15fc01e8e5ffe19fde8cb"
+      },
+      {
+        "label": "Pepper,_bell___healthy",
+        "confidence": 0.0258,
+        "_id": "6ad15fc01e8e5ffe19fde8cc"
+      },
+      {
+        "label": "Pepper,_bell___Bacterial_spot",
+        "confidence": 0.0225,
+        "_id": "6ad15fc01e8e5ffe19fde8cd"
+      }
+    ],
+    "finalLabel": "Corn_(maize)___Common_rust_",
+    "disease": {
+      "translations": {
+        "en": {
+          "name": "Common Rust",
+          "description": "Puccinia fungal pathogen causing powdery cinnamon-brown pustules on both leaf sides.",
+          "symptoms": [
+            "Cinnamon-brown powdery pustules",
+            "Ruptured epidermis",
+            "Leaf chlorosis"
+          ],
+          "causes": [
+            "Puccinia sorghi fungus",
+            "Cool moist weather and airborne spore fronts"
+          ],
+          "prevention": [
+            "Rust-resistant hybrid seeds",
+            "Early planting dates"
+          ],
+          "organicTreatment": [
+            "Wettable sulfur",
+            "Copper oxychloride"
+          ],
+          "chemicalTreatment": [
+            "Tebuconazole",
+            "Pyraclostrobin",
+            "Mancozeb"
+          ],
+          "bestPractices": [
+            "Check regional rust alerts",
+            "Apply fungicide at early emergence"
+          ],
+          "severityNote": "Moderate. Cool damp seasons exacerbate spore spread."
+        },
+        "ta": {
+          "name": "மக்காச்சோள துரு நோய் (Common Rust)",
+          "description": "பக்சீனியா பூஞ்சையால் ஏற்படும் இந்த நோய் இலைகளில் பழுப்பு நிற துரு போன்ற கொப்புளங்களை உண்டாக்குகிறது.",
+          "symptoms": [
+            "இலையின் இருபுறமும் துரு போன்ற கொப்புளங்கள்",
+            "தூள் போன்ற வித்துக்கள்",
+            "இலைகள் மஞ்சள் நிறமாதல்"
+          ],
+          "causes": [
+            "பக்சீனியா பூஞ்சை",
+            "குளிர்ந்த ஈரப்பதமான காற்று"
+          ],
+          "prevention": [
+            "துரு எதிர்ப்பு கலப்பின விதைகள்",
+            "பருவத்தின் தொடக்கத்திலேயே விதைக்கவும்"
+          ],
+          "organicTreatment": [
+            "கந்தகத் தூள்",
+            "காப்பர் ஆக்சிகுளோரைடு"
+          ],
+          "chemicalTreatment": [
+            "டெபுகோனசோல்",
+            "மேன்கோசெப்"
+          ],
+          "bestPractices": [
+            "கொப்புளங்கள் தோன்றியவுடன் தெளிக்கவும்"
+          ],
+          "severityNote": "மிதமான தீவிரம்."
+        },
+        "hi": {
+          "name": "मक्का का सामान्य रतुआ/जंग (Common Rust)",
+          "description": "पुक्सीनिया कवक के कारण पत्तियों के दोनों तरफ भूरे-लाल रंग के फफोले (पुस्ट्यूल) बन जाते हैं।",
+          "symptoms": [
+            "दालचीनी जैसे भूरे फफोले",
+            "धूल जैसा पाउडर",
+            "पत्तियों का पीला पड़ना"
+          ],
+          "causes": [
+            "पुक्सीनिया फंगस",
+            "ठंडा और नम मौसम"
+          ],
+          "prevention": [
+            "रोगरोधी बीज चुनें",
+            "समय पर बुवाई करें"
+          ],
+          "organicTreatment": [
+            "घुलनशील गंधक (सल्फर)",
+            "कॉपर ऑक्सीक्लोराइड"
+          ],
+          "chemicalTreatment": [
+            "टेबुकोनाजोल",
+            "मैनकोजेब"
+          ],
+          "bestPractices": [
+            "शुरुआती लक्षण दिखते ही कवकनाशी डालें"
+          ],
+          "severityNote": "मध्यम नुकसान।"
+        }
+      },
+      "_id": "6acc78d35f12b4c9e61a2824",
+      "classLabel": "Corn_(maize)___Common_rust_",
+      "__v": 0,
+      "bestPractices": [
+        "Monitor weather patterns and regional rust movement alerts",
+        "Treat sweet corn early as market ear appearance is critical"
+      ],
+      "causes": [
+        "Puccinia sorghi fungus whose spores blow in on storm fronts",
+        "Cool temperatures (16°C - 23°C) and high relative humidity (>95%)"
+      ],
+      "chemicalTreatment": [
+        "Foliar triazole or strobilurin fungicides (e.g., Pyraclostrobin, Tebuconazole)",
+        "Mancozeb application at first sign of pustules on upper leaves"
+      ],
+      "createdAt": "2026-10-12T06:06:12.904Z",
+      "crop": {
+        "translations": {
+          "en": {
+            "name": "Corn (Maize)"
+          },
+          "ta": {
+            "name": "மக்காச்சோளம்"
+          },
+          "hi": {
+            "name": "मक्का"
+          }
+        },
+        "_id": "6acc78cf484a1b926b0cc3db",
+        "name": "Corn",
+        "imageUrl": "/images/crops/corn.jpg",
+        "createdAt": "2026-10-12T06:06:07.635Z",
+        "__v": 0
+      },
+      "description": "Caused by Puccinia sorghi. Characterized by golden-brown to cinnamon-brown pustules scattered across both upper and lower leaf surfaces.",
+      "isHealthy": false,
+      "name": "Common Rust",
+      "organicTreatment": [
+        "Sulfur dusting or wettable sulfur suspensions",
+        "Copper oxychloride foliar sprays"
+      ],
+      "prevention": [
+        "Plant corn hybrids with Rp gene-specific or general rust resistance",
+        "Plant early in the season to avoid late-season airborne spore showers"
+      ],
+      "severityNote": "Moderate severity. Favors cool, moist conditions.",
+      "symptoms": [
+        "Circular to elongate cinnamon-brown powdery pustules (uredinia) on leaves",
+        "Pustules rupture epidermal surface releasing rusty powdery spores",
+        "Yellowing and chlorosis surrounding clustered pustules"
+      ]
+    },
+    "confidence": 0.7763,
+    "status": "confident",
+    "shareToken": "fcf65586da875db6469e342a654120cc",
+    "createdAt": "2026-10-15T23:20:32.432Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad15fb9cc38914aef998d71",
+    "user": null,
+    "batchId": null,
+    "imagePath": "/uploads/original/1792106425406_9ee6af742ee4f243.jpg",
+    "heatmapPath": "/uploads/heatmaps/heatmap_1792106425639_fee968c38f051109.jpg",
+    "topPredictions": [
+      {
+        "label": "Potato___Early_blight",
+        "confidence": 0.9736,
+        "_id": "6ad15fb9cc38914aef998d72"
+      },
+      {
+        "label": "Tomato___Early_blight",
+        "confidence": 0.0051,
+        "_id": "6ad15fb9cc38914aef998d73"
+      },
+      {
+        "label": "Cherry_(including_sour)___healthy",
+        "confidence": 0.0018,
+        "_id": "6ad15fb9cc38914aef998d74"
+      }
+    ],
+    "finalLabel": "Potato___Early_blight",
+    "disease": {
+      "translations": {
+        "en": {
+          "name": "Potato Early Blight",
+          "description": "Alternaria fungal pathogen causing concentric target-board ring spots on older leaves.",
+          "symptoms": [
+            "Concentric ring target spots",
+            "Yellowing of lower foliage",
+            "Corky tuber lesions"
+          ],
+          "causes": [
+            "Alternaria solani",
+            "Stressed plants and alternating wet/dry weather"
+          ],
+          "prevention": [
+            "3-year crop rotation",
+            "Optimal vine nutrition",
+            "Certified seed tubers"
+          ],
+          "organicTreatment": [
+            "Copper fungicide",
+            "Bacillus subtilis"
+          ],
+          "chemicalTreatment": [
+            "Chlorothalonil",
+            "Azoxystrobin",
+            "Difenoconazole"
+          ],
+          "bestPractices": [
+            "Spray before row closure",
+            "Morning irrigation only"
+          ],
+          "severityNote": "Moderate to high. Targets aging foliage and reduces tuber yield."
+        },
+        "ta": {
+          "name": "உருளைக்கிழங்கு முன் பருவ கருகல் (Early Blight)",
+          "description": "ஆல்டர்னேரியா பூஞ்சையால் ஏற்படும் இந்த நோய் இலைகளில் வளைய வடிவிலான கரும்பழுப்பு புள்ளிகளை உருவாக்குகிறது.",
+          "symptoms": [
+            "இலைகளில் வளைய வடிவிலான புள்ளிகள்",
+            "அடி இலைகள் மஞ்சள் நிறமாதல்",
+            "இலைகள் காய்ந்து போதல்"
+          ],
+          "causes": [
+            "பூஞ்சை தொற்று",
+            "மாறி மாறி வரும் வறண்ட மற்றும் ஈரப்பத வானிலை"
+          ],
+          "prevention": [
+            "பயிர் சுழற்சி முறை",
+            "சான்றளிக்கப்பட்ட விதைக்கிழங்குகள்",
+            "சமச்சீர் உரமிடுதல்"
+          ],
+          "organicTreatment": [
+            "காப்பர் பூஞ்சைக் கொல்லி",
+            "ட்ரைக்கோடெர்மா விரிடி"
+          ],
+          "chemicalTreatment": [
+            "குளோரோதலோனில்",
+            "அசாக்ஸிஸ்ட்ரோபின்"
+          ],
+          "bestPractices": [
+            "வரிசைகள் மூடும் முன் மருந்து தெளிக்கவும்"
+          ],
+          "severityNote": "மிதமான முதல் அதிக தீவிரம்."
+        },
+        "hi": {
+          "name": "आलू का अगेती झुलसा रोग (Early Blight)",
+          "description": "अल्टरनेरिया कवक के कारण पत्तियों पर गोल छल्लेदार (टारगेट जैसे) भूरे धब्बे पड़ते हैं।",
+          "symptoms": [
+            "छल्लेदार भूरे धब्बे",
+            "निचली पत्तियों का पीला पड़ना",
+            "कंदों पर धब्बे"
+          ],
+          "causes": [
+            "अल्टरनेरिया फंगस",
+            "मौसम में नमी और गर्मी का बदलाव"
+          ],
+          "prevention": [
+            "3 साल का फसल चक्र",
+            "प्रमाणित बीज कंद",
+            "संतुलित पोषण"
+          ],
+          "organicTreatment": [
+            "कॉपर कवकनाशी",
+            "बैसिलस सबटिलिस"
+          ],
+          "chemicalTreatment": [
+            "क्लोरोथैलोनिल",
+            "एजॉक्सीस्ट्रोबिन"
+          ],
+          "bestPractices": [
+            "पंक्तियां मिलने से पहले छिड़काव करें"
+          ],
+          "severityNote": "मध्यम से उच्च नुकसान।"
+        }
+      },
+      "_id": "6acc78e35f12b4c9e61a2830",
+      "classLabel": "Potato___Early_blight",
+      "__v": 0,
+      "bestPractices": [
+        "Time fungicide applications before the potato canopy closes across rows",
+        "Avoid sprinkler irrigation late in the afternoon"
+      ],
+      "causes": [
+        "Alternaria solani fungus surviving in soil debris",
+        "Alternating dry and wet weather conditions with temperatures between 24°C and 29°C",
+        "Nutrient-stressed or aging potato vines"
+      ],
+      "chemicalTreatment": [
+        "Azoxystrobin, Pyraclostrobin, or Chlorothalonil sprays",
+        "Difenoconazole (Score) applied at early row closure"
+      ],
+      "createdAt": "2026-10-12T06:06:27.821Z",
+      "crop": {
+        "translations": {
+          "en": {
+            "name": "Potato"
+          },
+          "ta": {
+            "name": "உருளைக்கிழங்கு"
+          },
+          "hi": {
+            "name": "आलू"
+          }
+        },
+        "_id": "6acc78d2484a1b926b0cc3ea",
+        "name": "Potato",
+        "imageUrl": "/images/crops/potato.jpg",
+        "createdAt": "2026-10-12T06:06:10.276Z",
+        "__v": 0
+      },
+      "description": "Caused by Alternaria solani. Produces dark brown circular spots with characteristic concentric target-board rings on older foliage.",
+      "isHealthy": false,
+      "name": "Potato Early Blight",
+      "organicTreatment": [
+        "Copper hydroxide or copper oxychloride foliar sprays",
+        "Bio-fungicides with Bacillus subtilis or Trichoderma viride"
+      ],
+      "prevention": [
+        "Implement a 3-4 year crop rotation away from solanaceous crops",
+        "Maintain optimal nitrogen and potassium fertilization to prevent premature senescence",
+        "Use certified disease-free seed tubers"
+      ],
+      "severityNote": "Moderate to high severity. Can significantly reduce tuber sizing.",
+      "symptoms": [
+        "Dark brown to black circular lesions with concentric rings (target-like pattern)",
+        "Yellow chlorotic halos surrounding lesions on lower leaves",
+        "Defoliation starting from the lower canopy progressing upward",
+        "Sunken corky dry rot lesions on potato tubers"
+      ]
+    },
+    "confidence": 0.9736,
+    "status": "confident",
+    "shareToken": "54d1b0cbf7b1a7e8b5e521d8419edece",
+    "createdAt": "2026-10-15T23:20:25.749Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad15fb3e16f62d49f45b627",
+    "user": null,
+    "batchId": null,
+    "imagePath": "/uploads/original/1792106418659_10a40470c0215e91.jpg",
+    "heatmapPath": "/uploads/heatmaps/heatmap_1792106418923_1bf3124a1f0cb7fc.jpg",
+    "topPredictions": [
+      {
+        "label": "Apple___healthy",
+        "confidence": 0.8025,
+        "_id": "6ad15fb3e16f62d49f45b628"
+      },
+      {
+        "label": "Peach___healthy",
+        "confidence": 0.067,
+        "_id": "6ad15fb3e16f62d49f45b629"
+      },
+      {
+        "label": "Orange___Haunglongbing_(Citrus_greening)",
+        "confidence": 0.0241,
+        "_id": "6ad15fb3e16f62d49f45b62a"
+      }
+    ],
+    "finalLabel": "Apple___healthy",
+    "disease": {
+      "translations": {
+        "en": {
+          "name": "Apple (Healthy)",
+          "description": "Foliage exhibits vigorous health with no detected biotic pathology.",
+          "symptoms": [
+            "Deep green foliage",
+            "Intact leaf margins",
+            "Strong vegetative growth"
+          ],
+          "causes": [
+            "Optimal agricultural conditions and sound agronomy"
+          ],
+          "prevention": [
+            "Continue standard fertilization and pruning protocols"
+          ],
+          "organicTreatment": [
+            "Seaweed extract or compost tea foliar tonic"
+          ],
+          "chemicalTreatment": [
+            "None required"
+          ],
+          "bestPractices": [
+            "Routine scouting and drip irrigation balance"
+          ],
+          "severityNote": "Healthy condition."
+        },
+        "ta": {
+          "name": "ஆப்பிள் (ஆரோக்கியமானது)",
+          "description": "இலைகள் எவ்வித பூஞ்சை அல்லது பாக்டீரியா தொற்றுமின்றி செழுமையாக உள்ளன.",
+          "symptoms": [
+            "அடர் பச்சை இலைகள்",
+            "நோய்த்தொற்று இல்லை",
+            "நல்ல வளர்ச்சி"
+          ],
+          "causes": [
+            "சரியான பராமரிப்பு மற்றும் ஊட்டச்சத்து மேலாண்மை"
+          ],
+          "prevention": [
+            "வழக்கமான உரம் மற்றும் நீர் பாசனத்தை தொடரவும்"
+          ],
+          "organicTreatment": [
+            "கடற்பாசி உரம் தெளிக்கவும்"
+          ],
+          "chemicalTreatment": [
+            "தேவை இல்லை"
+          ],
+          "bestPractices": [
+            "தொடர்ந்து கண்காணிக்கவும்"
+          ],
+          "severityNote": "ஆரோக்கியமான நிலை."
+        },
+        "hi": {
+          "name": "सेब (स्वस्थ पत्ता)",
+          "description": "पत्तियां पूरी तरह से स्वस्थ हैं, कोई रोग या संक्रमण नहीं है।",
+          "symptoms": [
+            "गहरा हरा रंग",
+            "कोई धब्बे या सड़न नहीं",
+            "मजबूत शाखाएं"
+          ],
+          "causes": [
+            "उत्कृष्ट पोषण और समय पर पानी"
+          ],
+          "prevention": [
+            "नियमित खाद और छंटाई जारी रखें"
+          ],
+          "organicTreatment": [
+            "जैविक टॉनिक या समुद्री शैवाल अर्क"
+          ],
+          "chemicalTreatment": [
+            "कोई आवश्यकता नहीं"
+          ],
+          "bestPractices": [
+            "समय-समय पर निरीक्षण करते रहें"
+          ],
+          "severityNote": "स्वस्थ फसल।"
+        }
+      },
+      "_id": "6acc78d25f12b4c9e61a281f",
+      "classLabel": "Apple___healthy",
+      "__v": 0,
+      "bestPractices": [
+        "Maintain clean orchard floor weed-free strip",
+        "Monitor soil moisture with tensiometers"
+      ],
+      "causes": [
+        "Balanced soil nutrients and moisture",
+        "Proper orchard sanitation and pest management"
+      ],
+      "chemicalTreatment": [
+        "No chemical fungicides or bactericides required"
+      ],
+      "createdAt": "2026-10-12T06:06:12.067Z",
+      "crop": {
+        "translations": {
+          "en": {
+            "name": "Apple"
+          },
+          "ta": {
+            "name": "ஆப்பிள்"
+          },
+          "hi": {
+            "name": "सेब"
+          }
+        },
+        "_id": "6acc78c8484a1b926b0cc3cf",
+        "name": "Apple",
+        "imageUrl": "/images/crops/apple.jpg",
+        "createdAt": "2026-10-12T06:06:00.379Z",
+        "__v": 0
+      },
+      "description": "The apple foliage is vibrant green, free of foliar pathogens, showing robust vegetative vigor and photosynthetic efficiency.",
+      "isHealthy": true,
+      "name": "Apple Healthy",
+      "organicTreatment": [
+        "Prophylactic compost tea and seaweed foliar sprays for enhanced immunity"
+      ],
+      "prevention": [
+        "Maintain annual pruning to preserve sunlight and ventilation",
+        "Ensure balanced N-P-K fertilization and calcium foliar feeds",
+        "Continue periodic scouting for early pest or fungal signs"
+      ],
+      "severityNote": "Optimal plant health. Continue routine cultural management.",
+      "symptoms": [
+        "Uniform, deep green foliage without lesions, necrotic spots, or curling",
+        "Clean leaf margins and healthy terminal shoots",
+        "Normal fruit development without scab or rot"
+      ]
+    },
+    "confidence": 0.8025,
+    "status": "confident",
+    "shareToken": "4a28f53aba550d17f645badee1bedcb2",
+    "createdAt": "2026-10-15T23:20:19.020Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad15fa487b3f1958c34af2f",
+    "user": null,
+    "batchId": null,
+    "imagePath": "/uploads/original/1792106403570_7586a26571248d05.jpg",
+    "heatmapPath": "/uploads/heatmaps/heatmap_1792106403916_4f69e9b7e4ba0b78.jpg",
+    "topPredictions": [
+      {
+        "label": "Tomato___Early_blight",
+        "confidence": 0.4351,
+        "_id": "6ad15fa487b3f1958c34af30"
+      },
+      {
+        "label": "Potato___Early_blight",
+        "confidence": 0.1638,
+        "_id": "6ad15fa487b3f1958c34af31"
+      },
+      {
+        "label": "Tomato___Septoria_leaf_spot",
+        "confidence": 0.1372,
+        "_id": "6ad15fa487b3f1958c34af32"
+      }
+    ],
+    "finalLabel": "Tomato___Early_blight",
+    "disease": {
+      "translations": {
+        "en": {
+          "name": "Tomato Early Blight",
+          "description": "Alternaria fungus causing concentric bullseye rings on lower tomato foliage.",
+          "symptoms": [
+            "Bullseye concentric rings",
+            "Lower foliage yellowing",
+            "Stem collar rot",
+            "Fruit rot"
+          ],
+          "causes": [
+            "Alternaria solani",
+            "Warm humid weather and soil splashing"
+          ],
+          "prevention": [
+            "Mulch under plants",
+            "Prune lower bottom leaves",
+            "Crop rotation"
+          ],
+          "organicTreatment": [
+            "Copper fungicide",
+            "Bacillus subtilis bio-spray"
+          ],
+          "chemicalTreatment": [
+            "Chlorothalonil",
+            "Azoxystrobin",
+            "Mancozeb"
+          ],
+          "bestPractices": [
+            "Stake and prune for aeration",
+            "Water at root level only"
+          ],
+          "severityNote": "High. Progressive defoliation from bottom up."
+        },
+        "ta": {
+          "name": "தக்காளி முன் பருவ கருகல் (Early Blight)",
+          "description": "ஆல்டர்னேரியா பூஞ்சையால் ஏற்படும் இந்த நோய் இலைகளில் வளைய வளையமாக கரும்பழுப்பு புள்ளிகளை உருவாக்குகிறது.",
+          "symptoms": [
+            "இலைகளில் வளைய வடிவ கருகல் புள்ளிகள்",
+            "அடி இலைகள் மஞ்சள் நிறமாகி உதிர்தல்",
+            "தண்டு அழுகல்"
+          ],
+          "causes": [
+            "பூஞ்சை தொற்று",
+            "மண் தெறித்தல் மற்றும் காற்றில் ஈரப்பதம்"
+          ],
+          "prevention": [
+            "தழைக்கூளம் அமைத்தல்",
+            "கீழ் இலைகளை கவாத்து செய்தல்",
+            "பயிர் சுழற்சி"
+          ],
+          "organicTreatment": [
+            "காப்பர் பூஞ்சைக் கொல்லி",
+            "ட்ரைக்கோடெர்மா விரிடி"
+          ],
+          "chemicalTreatment": [
+            "குளோரோதலோனில்",
+            "மேன்கோசெப்"
+          ],
+          "bestPractices": [
+            "செடிகளுக்கு முட்டுக்கொடுத்து காற்றோட்டமாக வளர்க்கவும்"
+          ],
+          "severityNote": "அதிக தீவிரம்."
+        },
+        "hi": {
+          "name": "टमाटर का अगेती झुलसा (Early Blight)",
+          "description": "अल्टरनेरिया कवक के कारण निचली पत्तियों पर गोल छल्लेदार (बैल की आंख जैसे) धब्बे पड़ते हैं।",
+          "symptoms": [
+            "छल्लेदार भूरे धब्बे",
+            "निचले पत्तों का सूखना",
+            "तने पर घाव",
+            "फलों पर काले धब्बे"
+          ],
+          "causes": [
+            "अल्टरनेरिया फंगस",
+            "गर्म और नम मौसम, मिट्टी का छिटकना"
+          ],
+          "prevention": [
+            "जमीन पर मल्चिंग करें",
+            "निचली पत्तियों की छंटाई करें",
+            "फसल चक्र"
+          ],
+          "organicTreatment": [
+            "कॉपर कवकनाशी",
+            "बैसिलस सबटिलिस"
+          ],
+          "chemicalTreatment": [
+            "क्लोरोथैलोनिल",
+            "मैनकोजेब"
+          ],
+          "bestPractices": [
+            "पौधों को सहारा दें और जड़ों में पानी दें"
+          ],
+          "severityNote": "गंभीर। नीचे से ऊपर की ओर पत्ते नष्ट होते हैं।"
+        }
+      },
+      "_id": "6acc78e55f12b4c9e61a2839",
+      "classLabel": "Tomato___Early_blight",
+      "__v": 0,
+      "bestPractices": [
+        "Stake and prune plants to improve aeration",
+        "Always water at the base of the plant using drip tape"
+      ],
+      "causes": [
+        "Alternaria solani fungus surviving in infected plant debris and soil",
+        "Warm temperatures (24°C - 30°C) with alternating wet periods and heavy dew"
+      ],
+      "chemicalTreatment": [
+        "Chlorothalonil, Azoxystrobin, or Difenoconazole",
+        "Mancozeb applied at 7-10 day intervals starting at early bloom"
+      ],
+      "createdAt": "2026-10-12T06:06:30.795Z",
+      "crop": {
+        "translations": {
+          "en": {
+            "name": "Tomato"
+          },
+          "ta": {
+            "name": "தக்காளி"
+          },
+          "hi": {
+            "name": "टमाटर"
+          }
+        },
+        "_id": "6acc78d3484a1b926b0cc3f9",
+        "name": "Tomato",
+        "imageUrl": "/images/crops/tomato.jpg",
+        "createdAt": "2026-10-12T06:06:11.305Z",
+        "__v": 0
+      },
+      "description": "Caused by Alternaria solani. Produces dark brown circular spots with characteristic concentric rings ('bullseye' or target-like pattern) surrounded by chlorotic yellow halos, starting on the oldest lower leaves.",
+      "isHealthy": false,
+      "name": "Tomato Early Blight",
+      "organicTreatment": [
+        "Copper hydroxide or liquid copper octanoate foliar spray",
+        "Bio-fungicides containing Bacillus subtilis or Trichoderma"
+      ],
+      "prevention": [
+        "Mulch soil around plants to prevent soil splashing onto bottom leaves",
+        "Prune off the lowest 12-18 inches of leaves once plants are established",
+        "Rotate with non-solanaceous crops for at least 3 years"
+      ],
+      "severityNote": "High severity. Common foliar disease that severely limits production.",
+      "symptoms": [
+        "Concentric circular bullseye ring spots on lower leaves",
+        "Yellowing (chlorosis) surrounding lesions leading to leaf withering and drop",
+        "Dark, sunken, leathery cankers on stems at soil line (collar rot)",
+        "Dark leathery concentric spots at the fruit stem end"
+      ]
+    },
+    "confidence": 0.4351,
+    "status": "uncertain",
+    "shareToken": "da5017523ce6c8ca12376287da1f0a61",
+    "createdAt": "2026-10-15T23:20:04.015Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ad15f1c62280227709c9c2a",
+    "user": "6ad15f1b62280227709c9c1f",
+    "batchId": null,
+    "imagePath": "/uploads/original/1792106268555_64cb8649e126b5c7.jpg",
+    "heatmapPath": "/uploads/heatmaps/heatmap_1792106268687_f1f2bdb411fb0b42.jpg",
+    "topPredictions": [
+      {
+        "label": "Apple___healthy",
+        "confidence": 0.8025,
+        "_id": "6ad15f1c62280227709c9c2b"
+      },
+      {
+        "label": "Peach___healthy",
+        "confidence": 0.067,
+        "_id": "6ad15f1c62280227709c9c2c"
+      },
+      {
+        "label": "Orange___Haunglongbing_(Citrus_greening)",
+        "confidence": 0.0241,
+        "_id": "6ad15f1c62280227709c9c2d"
+      }
+    ],
+    "finalLabel": "Apple___healthy",
+    "disease": {
+      "translations": {
+        "en": {
+          "name": "Apple (Healthy)",
+          "description": "Foliage exhibits vigorous health with no detected biotic pathology.",
+          "symptoms": [
+            "Deep green foliage",
+            "Intact leaf margins",
+            "Strong vegetative growth"
+          ],
+          "causes": [
+            "Optimal agricultural conditions and sound agronomy"
+          ],
+          "prevention": [
+            "Continue standard fertilization and pruning protocols"
+          ],
+          "organicTreatment": [
+            "Seaweed extract or compost tea foliar tonic"
+          ],
+          "chemicalTreatment": [
+            "None required"
+          ],
+          "bestPractices": [
+            "Routine scouting and drip irrigation balance"
+          ],
+          "severityNote": "Healthy condition."
+        },
+        "ta": {
+          "name": "ஆப்பிள் (ஆரோக்கியமானது)",
+          "description": "இலைகள் எவ்வித பூஞ்சை அல்லது பாக்டீரியா தொற்றுமின்றி செழுமையாக உள்ளன.",
+          "symptoms": [
+            "அடர் பச்சை இலைகள்",
+            "நோய்த்தொற்று இல்லை",
+            "நல்ல வளர்ச்சி"
+          ],
+          "causes": [
+            "சரியான பராமரிப்பு மற்றும் ஊட்டச்சத்து மேலாண்மை"
+          ],
+          "prevention": [
+            "வழக்கமான உரம் மற்றும் நீர் பாசனத்தை தொடரவும்"
+          ],
+          "organicTreatment": [
+            "கடற்பாசி உரம் தெளிக்கவும்"
+          ],
+          "chemicalTreatment": [
+            "தேவை இல்லை"
+          ],
+          "bestPractices": [
+            "தொடர்ந்து கண்காணிக்கவும்"
+          ],
+          "severityNote": "ஆரோக்கியமான நிலை."
+        },
+        "hi": {
+          "name": "सेब (स्वस्थ पत्ता)",
+          "description": "पत्तियां पूरी तरह से स्वस्थ हैं, कोई रोग या संक्रमण नहीं है।",
+          "symptoms": [
+            "गहरा हरा रंग",
+            "कोई धब्बे या सड़न नहीं",
+            "मजबूत शाखाएं"
+          ],
+          "causes": [
+            "उत्कृष्ट पोषण और समय पर पानी"
+          ],
+          "prevention": [
+            "नियमित खाद और छंटाई जारी रखें"
+          ],
+          "organicTreatment": [
+            "जैविक टॉनिक या समुद्री शैवाल अर्क"
+          ],
+          "chemicalTreatment": [
+            "कोई आवश्यकता नहीं"
+          ],
+          "bestPractices": [
+            "समय-समय पर निरीक्षण करते रहें"
+          ],
+          "severityNote": "स्वस्थ फसल।"
+        }
+      },
+      "_id": "6acc78d25f12b4c9e61a281f",
+      "classLabel": "Apple___healthy",
+      "__v": 0,
+      "bestPractices": [
+        "Maintain clean orchard floor weed-free strip",
+        "Monitor soil moisture with tensiometers"
+      ],
+      "causes": [
+        "Balanced soil nutrients and moisture",
+        "Proper orchard sanitation and pest management"
+      ],
+      "chemicalTreatment": [
+        "No chemical fungicides or bactericides required"
+      ],
+      "createdAt": "2026-10-12T06:06:12.067Z",
+      "crop": {
+        "translations": {
+          "en": {
+            "name": "Apple"
+          },
+          "ta": {
+            "name": "ஆப்பிள்"
+          },
+          "hi": {
+            "name": "सेब"
+          }
+        },
+        "_id": "6acc78c8484a1b926b0cc3cf",
+        "name": "Apple",
+        "imageUrl": "/images/crops/apple.jpg",
+        "createdAt": "2026-10-12T06:06:00.379Z",
+        "__v": 0
+      },
+      "description": "The apple foliage is vibrant green, free of foliar pathogens, showing robust vegetative vigor and photosynthetic efficiency.",
+      "isHealthy": true,
+      "name": "Apple Healthy",
+      "organicTreatment": [
+        "Prophylactic compost tea and seaweed foliar sprays for enhanced immunity"
+      ],
+      "prevention": [
+        "Maintain annual pruning to preserve sunlight and ventilation",
+        "Ensure balanced N-P-K fertilization and calcium foliar feeds",
+        "Continue periodic scouting for early pest or fungal signs"
+      ],
+      "severityNote": "Optimal plant health. Continue routine cultural management.",
+      "symptoms": [
+        "Uniform, deep green foliage without lesions, necrotic spots, or curling",
+        "Clean leaf margins and healthy terminal shoots",
+        "Normal fruit development without scab or rot"
+      ]
+    },
+    "confidence": 0.8025,
+    "status": "confident",
+    "shareToken": "6a6aa5219ad9360c4046d4decbd95763",
+    "createdAt": "2026-10-15T23:17:48.967Z",
+    "__v": 0
+  }
+]
